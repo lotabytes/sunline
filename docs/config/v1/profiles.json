@@ -1,0 +1,12 @@
+{
+  "low1k": {
+    "required": [
+      "low1k_core_ui_v1"
+    ]
+  },
+  "mid2k": {
+    "required": [
+      "mid2k_core_ui_v1"
+    ]
+  }
+}
